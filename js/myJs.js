@@ -2,7 +2,7 @@ const textConfig = {
   text1: "He luu emmm!",
   text2: "Anh có điều này muốn nói với em nèeeeee.",
   text3: "Anh bt N đang bị khó chịu, chắc giai đoạn này N cũng ít nch với anh",
-  text4: "Vì vậy, N hãy cố gắng qua giai đoạn này thật vui vẻ nhé",
+  text4: "Vì vậy, N hãy cố gắng qua giai đoạn này thật vui vẻ nhé!!! Nếu có gì buồn cứ nói với anh nha, anh luôn sẵn sàng lắng nghe em nè",
   text5: "Kooo >_<",
   text6: "Ok anhhh ^_^",
   text7: "Em hãy nhắn 1 thông điệp gì đó với chính mình điiii",
